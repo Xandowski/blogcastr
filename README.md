@@ -17,7 +17,8 @@ Application of #NLW05, made by [Rocketseat](https://rocketseat.com.br/). 🚀
 <div align="center">
 
 [![NextJS](https://img.shields.io/badge/-NextJS-blue?style&logo=vercel&link=https://nextjs.org/)](https://nextjs.org/)
-[![styled-components](https://img.shields.io/badge/%F0%9F%92%85%20styled-components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style&logo=tailwind-css&link=https://tailwindcss.com/)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style&logo=typescript&logoColor=fff&link=https://www.typescriptlang.org)](https://www.typescriptlang.org)
 
 </div>
 
@@ -54,7 +55,8 @@ I will try to create something a little different from the proposed application 
 
 - [NextJS](https://nextjs.org/docs/getting-started) - NextJS getting started
 - [ReactJS](https://reactjs.org/docs/getting-started.html) - ReactJS getting started
-- [Styled-components](https://styled-components.com/docs/basics#getting-started) - styled-components getting started
+- [Typescript](https://www.typescriptlang.org/docs/) - Typescript getting started
+- [Tailwind](https://tailwindcss.com/docs) - Tailwind getting started
 
 ### If you need some help, contact me, [instagram](https://www.instagram.com/alexandre.moraiis/) or on discord Xandowski#0512.
 
